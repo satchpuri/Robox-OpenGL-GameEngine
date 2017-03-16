@@ -1,0 +1,16 @@
+﻿  Texture.cpp
+  ShaderManager.cpp
+  Model.cpp
+  Main.cpp
+c:\users\satch\documents\github\robox-opengl-gameengine\puris_modelloading\satchengine_ice\engine.h(81): warning C4316: 'Engine::object': object allocated on the heap may not be aligned 16
+  Engine.cpp
+c:\users\satch\documents\github\robox-opengl-gameengine\puris_modelloading\satchengine_ice\engine.h(81): warning C4316: 'Engine::object': object allocated on the heap may not be aligned 16
+c:\users\satch\documents\github\robox-opengl-gameengine\puris_modelloading\satchengine_ice\engine.cpp(14): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\satch\documents\github\robox-opengl-gameengine\puris_modelloading\satchengine_ice\engine.cpp(20): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\satch\documents\github\robox-opengl-gameengine\puris_modelloading\satchengine_ice\engine.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\documents\github\robox-opengl-gameengine\puris_modelloading\satchengine_ice\engine.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\documents\github\robox-opengl-gameengine\puris_modelloading\satchengine_ice\engine.cpp(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\satch\documents\github\robox-opengl-gameengine\puris_modelloading\satchengine_ice\engine.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  SatchEngine_ICE.vcxproj -> C:\Users\satch\Documents\GitHub\Robox-OpenGL-GameEngine\PuriS_ModelLoading\Debug\SatchEngine_ICE.exe
